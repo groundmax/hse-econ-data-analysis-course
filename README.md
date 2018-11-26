@@ -35,7 +35,23 @@
 
 ## Полезные материалы
 
-*в процессе добавления...*
+* [Документация языка](https://docs.python.org/3/)
+
+<br>
+Cамоучители. Тем, у кого проблемы с синтаксисом, базовыми структурами данных и прочими основными концептами, настоятельно рекомендуется самостоятельно закрепить материал по одной из этих ссылок:
+
+* [A Byte of Python](https://python.swaroopch.com/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+
+<br>
+
+Разнообразное:
+
+* [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+* [Transforming code into Beautiful, Idiomatic Python](https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1)
+* [Форматирование строк](https://pyformat.info/)
+* [Работа со строками с помощью регулярных выражений](https://developers.google.com/edu/python/regular-expressions)
+* [Стандарт PEP 8: Рекомендации по написанию красивого кода](https://www.python.org/dev/peps/pep-0008/)
 
 ## Преподавательский состав
 
