@@ -40,6 +40,7 @@
 <br>
 Cамоучители. Тем, у кого проблемы с синтаксисом, базовыми структурами данных и прочими основными концептами, настоятельно рекомендуется самостоятельно закрепить материал по одной из этих ссылок:
 
+* [Материалы курса «Программирование на языке Python для сбора и анализа данных» (НИУ ВШЭ, 2015-16)](http://nbviewer.math-hse.info/github/ischurov/pythonhse/tree/master/)
 * [A Byte of Python](https://python.swaroopch.com/)
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 
