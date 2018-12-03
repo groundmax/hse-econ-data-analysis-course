@@ -33,7 +33,7 @@
 
 ---
 
-* [Занятие 4 (2018.12.01).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_03) Работа с табличными данными с помощью python
+* [Занятие 4 (2018.12.01).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_04) Работа с табличными данными с помощью python
 	* Модуль pandas. Основные функции. Агрегация данных
 	* **Крайний срок сдачи домашнего задания: 2018.12.07 23:59, пятница.** 
 
