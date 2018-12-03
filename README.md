@@ -31,7 +31,21 @@
 	* Закрепляем навыки использование библиотеки requests. Библиотека BeautifulSoup. 
 	* **Крайний срок сдачи домашнего задания: 2018.11.30 23:59, пятница.** 
 
-	---
+---
+
+* [Занятие 4 (2018.12.01).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_03) Работа с табличными данными с помощью python
+	* Модуль pandas. Основные функции. Агрегация данных
+	* **Крайний срок сдачи домашнего задания: 2018.12.07 23:59, пятница.** 
+
+* Полезные ссылки для знакомства с pandas:
+	* [Александр Дьяконов - Pandas. Обзор основных функций](https://alexanderdyakonov.files.wordpress.com/2015/04/ama2015_pandas.pdf) 
+	* [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+	* [Документация модуля pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+		* [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+		* [Pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) 
+	* [Brandon’s Pandas Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) 
+
+---
 
 ## Полезные материалы
 
@@ -53,6 +67,16 @@ Cамоучители. Тем, у кого проблемы с синтакси�
 * [Форматирование строк](https://pyformat.info/)
 * [Работа со строками с помощью регулярных выражений](https://developers.google.com/edu/python/regular-expressions)
 * [Стандарт PEP 8: Рекомендации по написанию красивого кода](https://www.python.org/dev/peps/pep-0008/)
+
+<br>
+ Полезные ссылки для знакомства с pandas:
+
+* [Александр Дьяконов - Pandas. Обзор основных функций](https://alexanderdyakonov.files.wordpress.com/2015/04/ama2015_pandas.pdf) 
+* [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
+* [Документация модуля pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+	* [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+	* [Pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) 
+* [Brandon’s Pandas Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) 
 
 ## Преподавательский состав
 
