@@ -37,6 +37,7 @@
 	* Модуль pandas. Основные функции. Агрегация данных
 	* **Крайний срок сдачи домашнего задания: 2018.12.10 23:59, понедельник**
 
+* [Разбор домашнего задания с прошлой недели](https://github.com/magnitofonov/hse-econ-data-analysis-course/blob/master/week_04/hw_03_solution.ipynb)
 
 
 * Полезные ссылки для знакомства с pandas:
