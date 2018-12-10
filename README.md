@@ -50,6 +50,12 @@
 
 ---
 
+* [Занятие 5 (2018.12.08).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_05) Визуализация в Python.
+	* Продолжаем пользоваться pandas. Библиотеки matplotlib и seaborn.
+	* **Крайний срок сдачи домашнего задания: 2018.12.14 23:59, пятница.** 
+
+---
+
 ## Полезные материалы
 
 * [Документация языка](https://docs.python.org/3/)
