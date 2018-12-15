@@ -56,6 +56,17 @@
 
 ---
 
+* [Занятие 6 (2018.12.15).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_06) Дополнительные сюжеты.
+	* Обработка исключений. Обзор numpy и scipy. Пара слов о машинном обучении. Модуль scikit-learn
+
+* Ссылки для любопытных:
+	* [Coursera: Введение в машинное обучение от ВШЭ](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) 
+	* [ODS: курс машинного обучения для начинающих](https://habr.com/company/ods/blog/322626/) 
+	* [Библиотека scikit-learn для ML.](https://scikit-learn.org/stable/) Почитайте quick start, user guide и tutorials в документации.
+	* [Песочница с нейронной сетью](https://playground.tensorflow.org)
+
+---
+
 ## Полезные материалы
 
 * [Документация языка](https://docs.python.org/3/)
@@ -86,6 +97,14 @@ Cамоучители. Тем, у кого проблемы с синтакси�
 	* [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 	* [Pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) 
 * [Brandon’s Pandas Tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) 
+
+<br>
+
+* Ссылки для любопытных по ML:
+	* [Coursera: Введение в машинное обучение от ВШЭ](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) 
+	* [ODS: курс машинного обучения для начинающих](https://habr.com/company/ods/blog/322626/) 
+	* [Библиотека scikit-learn для ML.](https://scikit-learn.org/stable/) Почитайте quick start, user guide и tutorials в документации.
+	* [Песочница с нейронной сетью](https://playground.tensorflow.org)
 
 ## Преподавательский состав
 
