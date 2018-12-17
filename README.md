@@ -53,11 +53,13 @@
 * [Занятие 5 (2018.12.08).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_05) Визуализация в Python.
 	* Продолжаем пользоваться pandas. Библиотеки matplotlib и seaborn.
 	* **Крайний срок сдачи домашнего задания: 2018.12.17 23:59, понедельник.** 
+	* **Сроки по ДЗ перенесены сутки**
 
 ---
 
 * [Занятие 6 (2018.12.15).](https://github.com/magnitofonov/hse-econ-data-analysis-course/tree/master/week_06) Дополнительные сюжеты.
 	* Обработка исключений. Обзор numpy и scipy. Пара слов о машинном обучении. Модуль scikit-learn
+	* **Крайний срок сдачи домашнего задания: 2018.12.24 23:59, понедельник.** 
 
 * Ссылки для любопытных:
 	* [Coursera: Введение в машинное обучение от ВШЭ](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) 
